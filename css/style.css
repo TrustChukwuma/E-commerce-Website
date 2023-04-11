@@ -1,0 +1,68 @@
+h2{
+    text-align: center;
+    /* margin: 30px; */
+}
+
+.p-200{
+    padding: 200px;
+    text-align: left;
+}
+
+.p-200>p{
+    font-size: 40px;
+}
+
+.p-200>p{
+    font-size: 28px;
+}
+
+.row{
+    justify-content: center;
+    padding: 0;
+}
+
+.size{
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+
+#productSection{
+    padding-top: 30px;
+}
+
+.container2{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 35px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-image1{
+    background-image: url(../assets/img/banner.jpg);
+    background-size: cover;
+    background-position: left;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.bg-image2{
+    background-image: url(../assets/img/banner\ \(33\).jpg);
+    background-size: cover;
+    background-position: right;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.bg-image3{
+    background-image: url(../assets/img/banner\ \(32\).jpg);
+    background-size: cover;
+    background-position: left;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.size > img{
+    height: 150.56px;
+}
