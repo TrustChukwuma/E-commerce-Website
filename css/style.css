@@ -66,3 +66,9 @@ h2{
 .size > img{
     height: 150.56px;
 }
+
+.text-primary a{
+    text-decoration: none;
+    font-style: italic;
+}
+
