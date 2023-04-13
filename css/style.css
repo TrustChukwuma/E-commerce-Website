@@ -72,3 +72,7 @@ h2{
     font-style: italic;
 }
 
+.overlay{
+    background-color: #00000094;
+    opacity: 0.5;
+}
